@@ -383,6 +383,9 @@ Mail.ru - сервис для отправки электронных писем
 - Регулярное резервное копирование
 - Мониторинг и автоматическое переключение
 
+## Схема проекта
+
+<img width="361" alt="схема" src="https://raw.githubusercontent.com/VDEN5/VK_EDU-HIGHLOAD/refs/heads/main/scheme.png" />
 
 ## Список источников
 1) [Годовой отчет VK Group](https://corp.vkcdn.ru/media/files/VK_AR2023_RUS_06.06_3KIGigO.pdf)
